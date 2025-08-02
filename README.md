@@ -23,5 +23,5 @@ The project includes a simple Python script that:
 
 Open your terminal and run:
 
-```bash
+```CMD
 python calculator.py
